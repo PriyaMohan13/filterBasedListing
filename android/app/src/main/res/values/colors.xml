@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Primary-->
+    <item name="colorPrimary" type="color">#5BA4A4</item>
+    <item name="colorPrimaryDark" type="color">#EFFAFA</item>
+    <item name="colorAccent" type="color">#5BA4A4</item>
+    <!--Neutral-->
+    <item name="light_grayish_cyan" type="color">#EFFAFA</item>
+    <item name="light_grayish_cyan_lite" type="color">#EEF6F6</item>
+    <item name="dark_grayish_cyan_lite" type="color">#7B8E8E</item>
+    <item name="dark_grayish_cyan" type="color">#2C3A3A</item>
+
+</resources>
